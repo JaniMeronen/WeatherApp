@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_01d
+drawable ic_01n
+drawable ic_02d
+drawable ic_02n
+drawable ic_03d
+drawable ic_03n
+drawable ic_04d
+drawable ic_04n
+drawable ic_09d
+drawable ic_09n
+drawable ic_10d
+drawable ic_10n
+drawable ic_11d
+drawable ic_11n
+drawable ic_13d
+drawable ic_13n
+drawable ic_50d
+drawable ic_50n
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.WeatherApp
+xml backup_rules
+xml data_extraction_rules

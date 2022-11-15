@@ -1,0 +1,3 @@
+C:\Users\Syke\AndroidStudioProjects\WeatherApp\app\src\main\java\com\example\weatherapp\Domain.kt
+C:\Users\Syke\AndroidStudioProjects\WeatherApp\app\src\main\java\com\example\weatherapp\Infrastructure.kt
+C:\Users\Syke\AndroidStudioProjects\WeatherApp\app\src\main\java\com\example\weatherapp\UI.kt
